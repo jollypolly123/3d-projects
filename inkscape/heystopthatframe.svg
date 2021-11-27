@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3767"
+   sodipodi:docname="heystopthatframe.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs3761">
+    <linearGradient
+       y2="0.7033683215379001"
+       y1="0.2966316784620999"
+       x2="0.9567727288213004"
+       x1="0.04322727117869957"
+       id="editing-stripes-gradient">
+      <stop
+         id="stop4583"
+         stop-color="#f92"
+         offset="0" />
+      <stop
+         id="stop4585"
+         stop-color="#e00"
+         offset="1" />
+    </linearGradient>
+    <filter
+       height="300%"
+       width="300%"
+       y="-100%"
+       x="-100%"
+       id="editing-stripes">
+      <feFlood
+         id="feFlood4588"
+         flood-color="#f00"
+         result="color" />
+      <feImage
+         id="feImage4590"
+         result="image"
+         height="1000"
+         width="2000"
+         y="0"
+         x="0"
+         xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAwcHgiIGhlaWdodD0iMTAwMHB4Ij48ZGVmcz48cGF0dGVybiBpZD0icGF0dGVybiIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iMCIgeT0iMCIgd2lkdGg9IjQiIGhlaWdodD0iNCI+PHBhdGggZD0iTSAtNCAtNCBMIDggOCBNIC04IC00IEwgNCA4IE0gLTQgLTggTCA4IDQiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxIi8+PC9wYXR0ZXJuPjwvZGVmcz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI3BhdHRlcm4pIi8+PC9zdmc+" />
+      <feTile
+         id="feTile4592"
+         result="tile"
+         in="image" />
+      <feComposite
+         id="feComposite4594"
+         in2="image"
+         in="SourceGraphic"
+         operator="in" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-59.594155"
+     inkscape:cy="1148.3448"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3764">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#fc0000;stroke-width:1.18410075;stroke-opacity:1"
+       d="M -119.16797 77.054688 A 37.542936 37.523869 0 0 0 -156.71094 114.57812 A 37.542936 37.523869 0 0 0 -154.38281 127.50781 L -842.31641 128.24805 C -859.21356 128.26622 -872.37457 141.87736 -871.82617 158.76562 L -866.38672 326.30078 C -865.83832 343.18905 -851.79364 356.77208 -834.89648 356.75391 L 603.97852 355.20508 C 620.87567 355.1869 634.03864 341.57772 633.49023 324.68945 L 628.04883 157.15234 C 627.50043 140.26408 613.45575 126.683 596.55859 126.70117 L -83.947266 127.43359 A 37.542936 37.523869 0 0 0 -81.625 114.57812 A 37.542936 37.523869 0 0 0 -119.16797 77.054688 z "
+       transform="scale(0.26458333)"
+       id="rect4574" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#f20000;stroke-width:0.07951947;stroke-opacity:1"
+       id="path4625-2"
+       cx="-31.529959"
+       cy="30.315525"
+       rx="6.2003245"
+       ry="6.0066566" />
+  </g>
+  <style
+     id="style4605">text {
+  font-size: 64px;
+  font-family: Arial Black;
+  dominant-baseline: central;
+  text-anchor: middle;
+}</style>
+</svg>
